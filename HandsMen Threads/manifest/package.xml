@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <!-- Apex Classes for Triggers and Asynchronous jobs -->
+    <types>
+        <members>*</members>
+        <name>ApexClass</name>
+    </types>
+    <!-- Apex Triggers on your custom objects -->
+    <types>
+        <members>*</members>
+        <name>ApexTrigger</name>
+    </types>
+    <!-- Your Custom Objects and all their fields, validation rules, etc. -->
+    <types>
+        <members>HandsMen_Customer__c</members>
+        <members>HandsMen_Product__c</members>
+        <members>HandsMen_Order__c</members>
+        <members>Inventory__c</members>
+        <members>Marketing_Campaign__c</members>
+        <name>CustomObject</name>
+    </types>
+    <!-- The HandsMen Threads Lightning App -->
+    <types>
+        <members>HandsMen_Threads</members> <!-- Adjust if your app has a different API name -->
+        <name>CustomApplication</name>
+    </types>
+    <!-- All your automation Flows -->
+    <types>
+        <members>*</members>
+        <name>Flow</name>
+    </types>
+    <!-- Lightning Pages created with App Builder -->
+    <types>
+        <members>HandsMen_Threads</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>HandsMen_Threads_UtilityBar</members>
+        <name>FlexiPage</name>
+    </types>
+    <!-- Reports and Dashboards -->
+    <types>
+        <members>*</members> <!-- You can specify folders like 'MyDashboards/MyDashboardName' -->
+        <name>Dashboard</name>
+    </types>
+    <types>
+        <members>*</members> <!-- You can specify folders like 'MyReports/MyReportName' -->
+        <name>Report</name>
+    </types>
+    <!-- Security: Profiles and Permission Sets -->
+    <types>
+        <members>Platform 1</members>
+        <members>Admin</members> <!-- API name for System Administrator -->
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>Permission_Platform_1</members>
+        <name>PermissionSet</name>
+    </types>
+    <!-- Security: Roles -->
+    <types>
+        <members>Sales</members>
+        <members>Inventory</members>
+        <members>Marketing</members>
+        <name>Role</name>
+    </types>
+    <!-- Email Templates for notifications -->
+    <types>
+        <members>*</members> <!-- Specify a folder if you have one, e.g., 'OrderEmails' -->
+        <name>EmailTemplate</name>
+    </types>
+    <version>64.0</version>
+</Package>
