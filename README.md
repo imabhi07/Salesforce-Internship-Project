@@ -1,5 +1,4 @@
-# 🚀 HandsMen Threads: Elevating the Art of Sophistication in Men's Fashion<img width="2774" height="223" alt="image" src="https://github.com/user-attachments/assets/1537797b-2e3c-4f01-9882-248612fc9bc5" />
- 🚀
+# 🚀 HandsMen Threads: Elevating the Art of Sophistication in Men's Fashion 🚀
 
 ### Salesforce Virtual Internship Project – Pioneering Digital Transformation in Men's Fashion
 
