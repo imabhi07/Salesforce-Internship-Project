@@ -152,3 +152,7 @@ The **HandsMen Threads App** is the central hub for users.
 * **Monitoring:** Scheduled Jobs, Performance Optimization, Email Delivery Tracking.
 
 ---
+
+### 📽️Demo Video
+
+* https://drive.google.com/file/d/1EFT_7GkVuqc9VkA4I3ZMEczk4c5faVc5/view?usp=sharing
